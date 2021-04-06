@@ -1,2 +1,24 @@
-# LabAI-Coding
-Resources for HSG Course EMBA 58/59 - W8/3: Coding für Führungskräfte 
+# EMBA 58/59 - W8/3 - Coding für Führungskräfte 
+
+![Course Banner](banner.png)
+
+
+Liebe EMBA 58 & EMBA 59-Studierende
+
+Herzlich willkommen zum Wahlkurs «Coding für Führungskräfte», unterrichtet von Prof. Dr. Damian Borth und Prof. Dr. Barbara Weber. In diesem anwendungsorientierten Kurs wechseln sich die theoretischen Inputs der Dozierenden mit angeleiteten Coding Labs und Coding Übungen ab. Bitte nutzt für den Kurs zum Programmieren einen Laptop/ein Notebook, sodass ihr alle zum Programmieren notwendigen Zeichen zur Verfügung habt.
+
+---
+
+Hier werden wir bald die Inhalte für unsere Coding-Übungen verlinken.
+
+
+
+| Session                 |  Thema                           |  Notebook   | Übungen |
+|:-----------------------:|:--------------------------------:|:-----------:|:-------:|
+|                         |  Jupyter Notebook Test           |             |         |
+| Montag                  |  Python 101: Basics              |             |         |
+| Dienstag Morgen         |  Python 102: Numpy & Matplotlib  |             |         |
+| Dienstag Nachmittag     |  Supervised Learning: Iris       |             |         |
+| Mittwoch Morgen         |  Fashion-MNIST                   |             |         |
+| Mittwoch Nachmittag     |  CIFAR                           |             |         |
+
