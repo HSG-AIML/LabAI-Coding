@@ -15,10 +15,9 @@ Hier werden wir bald die Inhalte für unsere Coding-Übungen verlinken.
 
 | Session                 |  Thema                           |  Notebook   | Übungen |
 |:-----------------------:|:--------------------------------:|:-----------:|:-------:|
-|                         |  Jupyter Notebook Test           |             |         |
+|  < 12.04.2021 | Voraussetzung | Testing the Lab Environment                                          | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAI-Coding/main?filepath=resources%2Flab_00%2FTest.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAI-Coding/blob/main/resources/lab_00/Test.ipynb)|
 | Montag                  |  Python 101: Basics              |             |         |
 | Dienstag Morgen         |  Python 102: Numpy & Matplotlib  |             |         |
-| Dienstag Nachmittag     |  Supervised Learning: Iris       |             |         |
-| Mittwoch Morgen         |  Fashion-MNIST                   |             |         |
-| Mittwoch Nachmittag     |  CIFAR                           |             |         |
-
+| Dienstag Nachmittag     |  Machine Learning      |             |         |
+| Mittwoch Morgen         |  Deep Learning I                |             |         |
+| Mittwoch Nachmittag     |  Deep Learning II                           |             |         |
