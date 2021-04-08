@@ -13,9 +13,9 @@ Hier werden wir bald die Inhalte für unsere Coding-Übungen verlinken.
 
 
 
-| Session                 |  Thema                            |  Notebook                       | Übungen |
+| Session                 |  Thema                            |  Lab Notebook                       | Übung Notebook |
 |:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|
-|  < 12.04.2021 | Voraussetzung | Testing the Lab Environment | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAI-Coding/main?filepath=resources%2Flab_00%2FTest.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAI-Coding/blob/main/resources/lab_00/Test.ipynb)|
+|  < 12.04.2021 | Voraussetzung | - | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAI-Coding/main?filepath=resources%2Flab_00%2FTest.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAI-Coding/blob/main/resources/lab_00/Test.ipynb)|
 | Montag                  |  Python 101: Basics               |                                 |         |
 | Dienstag<br/>Vormittag      |  Python 102: Numpy & Matplotlib   |                                 |         |
 | Dienstag<br/>Nachmittag     |  Machine Learning<br/>(Naive Bayes)               | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAI-Coding/main?filepath=resources%2Flab_03%2Flab_03a.ipynb)<br/>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAI-Coding/blob/main/resources/lab_03/lab_03a.ipynb)  |         |
