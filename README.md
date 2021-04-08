@@ -18,6 +18,6 @@ Hier werden wir bald die Inhalte für unsere Coding-Übungen verlinken.
 |  < 12.04.2021 | Voraussetzung | Testing the Lab Environment                                          | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAI-Coding/main?filepath=resources%2Flab_00%2FTest.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAI-Coding/blob/main/resources/lab_00/Test.ipynb)|
 | Montag                  |  Python 101: Basics              |             |         |
 | Dienstag Vormittag      |  Python 102: Numpy & Matplotlib  |             |         |
-| Dienstag Nachmittag     |  Machine Learning      |             |         |
-| Mittwoch Vormittag      |  Deep Learning I                |             |         |
-| Mittwoch Nachmittag     |  Deep Learning II                           |             |         |
+| Dienstag Nachmittag     |  Machine Learning      | Naive Bayes                     |         |
+| Mittwoch Vormittag      |  Deep Learning I       | Artificial Neural Networks      |         |
+| Mittwoch Nachmittag     |  Deep Learning II      | Convolutional Neural Networks   |         |
