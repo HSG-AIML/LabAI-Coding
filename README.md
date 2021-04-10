@@ -14,7 +14,7 @@ Hier werden wir bald die Inhalte für unsere Coding-Übungen verlinken.
 
 
 | Session                 |  Thema                            |  Lab Notebook                       | Übung Notebook |
-|:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|
+|:-----------------------:|:---------------------------------:|:-------------------------------|:-------|
 |  < 12.04.2021 | Voraussetzung | - | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAI-Coding/main?filepath=resources%2Flab_00%2FTest.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAI-Coding/blob/main/resources/lab_00/Test.ipynb)|
 | Montag                  |  Python 101: Jupyter Notebooks and Python Basics               |   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAI-Coding/main?filepath=resources%2Flab_01%2Flab_01.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAI-Coding/blob/main/resources/lab_01/lab_01.ipynb)                              |         |
 | Dienstag<br/>Vormittag      |  Python 102: Numerical Math, Plotting & Images   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabAI-Coding/main?filepath=resources%2Flab_02%2Flab_02.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAI-Coding/blob/main/resources/lab_02/lab_02.ipynb)                                |         |
