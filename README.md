@@ -5,7 +5,9 @@
 
 Liebe EMBA 58 & EMBA 59-Studierende,
 
-Herzlich willkommen zum EMBA Wahlkurs **«Coding für Führungskräfte»**, unterrichtet von **Prof. Dr. Damian Borth** und **Prof. Dr. Barbara Weber**. In diesem anwendungsorientierten Kurs wechseln sich die theoretischen Inputs der Dozierenden mit angeleiteten Coding Labs und Coding Übungen ab. Bitte nutzt für den Kurs zum Programmieren einen Laptop/ein Notebook, sodass ihr alle zum Programmieren notwendigen Zeichen zur Verfügung habt.
+Herzlich willkommen zum EMBA Wahlkurs **«Coding für Führungskräfte»**, unterrichtet von **Prof. Dr. Damian Borth** und **Prof. Dr. Barbara Weber**. In diesem anwendungsorientierten Kurs wechseln sich die theoretischen Inputs der Dozierenden mit angeleiteten Coding Labs und Coding Übungen ab. 
+
+Bitte nutzt für den Kurs zum Programmieren einen Laptop/ein Notebook, sodass ihr alle zum Programmieren notwendigen Zeichen zur Verfügung habt.
 
 Vielen Dank und viel Spaß beim Codieren,
 
@@ -13,7 +15,7 @@ Euer EMBA-Lehrteam
 
 ---
 
-In der Tabelle anbei findet Ihr alle Code Lab und Übungs Notebooks:
+In der Tabelle anbei findet Ihr alle Coding Lab und Übung Notebooks:
 
 
 
